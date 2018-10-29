@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|D:\opencv实践_GPU\exsic20  超分辨率重构 (四种方法：farneback, tvl1, brox, pyrlk)\|
